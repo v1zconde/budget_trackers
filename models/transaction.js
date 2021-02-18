@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+console.log("transaction")
 const Schema = mongoose.Schema;
 
 const transactionSchema = new Schema(
